@@ -1,0 +1,5 @@
+baseURL = 'https://Alomika.github.io/'
+locale = 'en-us'
+title = 'My New Hugo Project'
+theme = 'hellofriend'
+disableKinds = ["RSS"]
